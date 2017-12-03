@@ -79,7 +79,7 @@ body {
   text-align: center; }
 
 header {
-  background-image: linear-gradient(to right bottom, rgba(74, 20, 100, 0.7), rgba(0, 86, 188, 0.7)), url("../img/header.jpg");
+  background-image: linear-gradient(to right bottom, rgba(74, 20, 100, 0.7), rgba(0, 86, 188, 0.7)), url("../img/header.png");
   background-size: cover;
   height: 90vh;
   position: relative;
